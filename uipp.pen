@@ -13870,10 +13870,10 @@
     {
       "type": "text",
       "id": "14hNO",
-      "x": -129,
-      "y": 1511,
+      "x": 2512,
+      "y": 1571,
       "fill": "$accent",
-      "content": "No data",
+      "content": "Test xíu",
       "fontFamily": "Inter",
       "fontSize": 100,
       "fontWeight": "normal"

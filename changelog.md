@@ -1,6 +1,6 @@
 # Changelog
 
-## [2026-05-05] — 11:15 (GMT+7)
+## [2026-05-05] — 15:15 (GMT+7)
 
 ### Quản lý tích hợp — Thêm trường Authentication Methods cho Webhook
 

@@ -46524,12 +46524,12 @@
     {
       "type": "frame",
       "id": "oTvtN",
-      "x": 2487,
+      "x": 2497,
       "y": 10480,
       "name": " Integration management- UI component",
       "clip": true,
       "width": 1420,
-      "height": 1159,
+      "height": 1689,
       "fill": "#dedede33",
       "cornerRadius": 100,
       "layout": "none",
@@ -46537,8 +46537,8 @@
         {
           "type": "frame",
           "id": "EjJnD",
-          "x": 85,
-          "y": 54,
+          "x": 113,
+          "y": 34,
           "name": "modal",
           "width": 700,
           "fill": "$bg-primary",
@@ -47069,123 +47069,10 @@
                                   "fill": "$text-primary",
                                   "textGrowth": "fixed-width",
                                   "width": "fill_container",
-                                  "content": "https://webhook.site/18891db9-...",
+                                  "content": "https://webhook.site/18891db9-a9f9-451e-a16f-f49f242c9219",
                                   "fontFamily": "Inter",
                                   "fontSize": 14,
                                   "fontWeight": "normal"
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "I77Nl",
-                          "name": "wh1AuthRow",
-                          "width": "fill_container",
-                          "gap": 16,
-                          "children": [
-                            {
-                              "type": "frame",
-                              "id": "g4Dbrv",
-                              "name": "card1AbGrp",
-                              "width": "fill_container",
-                              "layout": "vertical",
-                              "gap": 6,
-                              "children": [
-                                {
-                                  "type": "text",
-                                  "id": "aaCGq",
-                                  "name": "card1AbLbl",
-                                  "fill": "$text-primary",
-                                  "content": "Auth Body",
-                                  "fontFamily": "Inter",
-                                  "fontSize": 13,
-                                  "fontWeight": "500"
-                                },
-                                {
-                                  "type": "frame",
-                                  "id": "gsQvk",
-                                  "name": "card1AbInp",
-                                  "width": "fill_container",
-                                  "height": 40,
-                                  "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1,
-                                    "fill": "$border-color"
-                                  },
-                                  "padding": [
-                                    0,
-                                    12
-                                  ],
-                                  "alignItems": "center",
-                                  "children": [
-                                    {
-                                      "type": "text",
-                                      "id": "RlpOg",
-                                      "name": "card1AbTxt",
-                                      "fill": "$text-primary",
-                                      "textGrowth": "fixed-width",
-                                      "width": "fill_container",
-                                      "content": "request_body",
-                                      "fontFamily": "Inter",
-                                      "fontSize": 14,
-                                      "fontWeight": "normal"
-                                    }
-                                  ]
-                                }
-                              ]
-                            },
-                            {
-                              "type": "frame",
-                              "id": "W4aOv",
-                              "name": "card1AuGrp",
-                              "width": "fill_container",
-                              "layout": "vertical",
-                              "gap": 6,
-                              "children": [
-                                {
-                                  "type": "text",
-                                  "id": "V8juD",
-                                  "name": "card1AuLbl",
-                                  "fill": "$text-primary",
-                                  "content": "Auth URL",
-                                  "fontFamily": "Inter",
-                                  "fontSize": 13,
-                                  "fontWeight": "500"
-                                },
-                                {
-                                  "type": "frame",
-                                  "id": "uHjLD",
-                                  "name": "card1AuInp",
-                                  "width": "fill_container",
-                                  "height": 40,
-                                  "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1,
-                                    "fill": "$border-color"
-                                  },
-                                  "padding": [
-                                    0,
-                                    12
-                                  ],
-                                  "alignItems": "center",
-                                  "children": [
-                                    {
-                                      "type": "text",
-                                      "id": "K1GGEM",
-                                      "name": "card1AuTxt",
-                                      "fill": "$text-primary",
-                                      "textGrowth": "fixed-width",
-                                      "width": "fill_container",
-                                      "content": "https://auth.example.com/token",
-                                      "fontFamily": "Inter",
-                                      "fontSize": 14,
-                                      "fontWeight": "normal"
-                                    }
-                                  ]
                                 }
                               ]
                             }
@@ -47204,7 +47091,7 @@
                               "id": "ADzoa",
                               "name": "card1TkLbl",
                               "fill": "$text-primary",
-                              "content": "Auth Token",
+                              "content": "Authentication Methods",
                               "fontFamily": "Inter",
                               "fontSize": 13,
                               "fontWeight": "500"
@@ -47225,6 +47112,7 @@
                                 0,
                                 12
                               ],
+                              "justifyContent": "space_between",
                               "alignItems": "center",
                               "children": [
                                 {
@@ -47234,10 +47122,19 @@
                                   "fill": "$text-primary",
                                   "textGrowth": "fixed-width",
                                   "width": "fill_container",
-                                  "content": "Bearer sk-xxxxx",
+                                  "content": "Không có",
                                   "fontFamily": "Inter",
                                   "fontSize": 14,
                                   "fontWeight": "normal"
+                                },
+                                {
+                                  "type": "icon_font",
+                                  "id": "Mnpwx",
+                                  "width": 16,
+                                  "height": 16,
+                                  "iconFontName": "chevron-down",
+                                  "iconFontFamily": "lucide",
+                                  "fill": "$text-secondary"
                                 }
                               ]
                             }
@@ -47344,112 +47241,61 @@
                         },
                         {
                           "type": "frame",
-                          "id": "Lu0Hm",
-                          "name": "wh2AuthRow",
+                          "id": "r9RxAt",
+                          "name": "wh1Token",
                           "width": "fill_container",
-                          "gap": 16,
+                          "layout": "vertical",
+                          "gap": 6,
                           "children": [
                             {
-                              "type": "frame",
-                              "id": "s0fFc",
-                              "name": "card2AbGrp",
-                              "width": "fill_container",
-                              "layout": "vertical",
-                              "gap": 6,
-                              "children": [
-                                {
-                                  "type": "text",
-                                  "id": "fab4w",
-                                  "name": "card2AbLbl",
-                                  "fill": "$text-primary",
-                                  "content": "Auth Body",
-                                  "fontFamily": "Inter",
-                                  "fontSize": 13,
-                                  "fontWeight": "500"
-                                },
-                                {
-                                  "type": "frame",
-                                  "id": "lBWJL",
-                                  "name": "card2AbInp",
-                                  "width": "fill_container",
-                                  "height": 40,
-                                  "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1,
-                                    "fill": "$border-color"
-                                  },
-                                  "padding": [
-                                    0,
-                                    12
-                                  ],
-                                  "alignItems": "center",
-                                  "children": [
-                                    {
-                                      "type": "text",
-                                      "id": "W6Uhi",
-                                      "name": "card2AbTxt",
-                                      "fill": "$text-secondary",
-                                      "textGrowth": "fixed-width",
-                                      "width": "fill_container",
-                                      "content": "Auth Body",
-                                      "fontFamily": "Inter",
-                                      "fontSize": 14,
-                                      "fontWeight": "normal"
-                                    }
-                                  ]
-                                }
-                              ]
+                              "type": "text",
+                              "id": "qF5ZX",
+                              "name": "card1TkLbl",
+                              "fill": "$text-primary",
+                              "content": "Authentication Methods",
+                              "fontFamily": "Inter",
+                              "fontSize": 13,
+                              "fontWeight": "500"
                             },
                             {
                               "type": "frame",
-                              "id": "rgl80",
-                              "name": "card2AuGrp",
+                              "id": "EM6kM",
+                              "name": "card1TkInp",
                               "width": "fill_container",
-                              "layout": "vertical",
-                              "gap": 6,
+                              "height": 40,
+                              "cornerRadius": 8,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 1,
+                                "fill": "$border-color"
+                              },
+                              "padding": [
+                                0,
+                                12
+                              ],
+                              "justifyContent": "space_between",
+                              "alignItems": "center",
                               "children": [
                                 {
                                   "type": "text",
-                                  "id": "yHoHB",
-                                  "name": "card2AuLbl",
+                                  "id": "j9LI8",
+                                  "name": "card1TkTxt",
                                   "fill": "$text-primary",
-                                  "content": "Auth URL",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "Bearer Token",
                                   "fontFamily": "Inter",
-                                  "fontSize": 13,
-                                  "fontWeight": "500"
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
                                 },
                                 {
-                                  "type": "frame",
-                                  "id": "K6IKNd",
-                                  "name": "card2AuInp",
-                                  "width": "fill_container",
-                                  "height": 40,
-                                  "cornerRadius": 8,
-                                  "stroke": {
-                                    "align": "inside",
-                                    "thickness": 1,
-                                    "fill": "$border-color"
-                                  },
-                                  "padding": [
-                                    0,
-                                    12
-                                  ],
-                                  "alignItems": "center",
-                                  "children": [
-                                    {
-                                      "type": "text",
-                                      "id": "mmZSQ",
-                                      "name": "card2AuTxt",
-                                      "fill": "$text-secondary",
-                                      "textGrowth": "fixed-width",
-                                      "width": "fill_container",
-                                      "content": "Auth URL",
-                                      "fontFamily": "Inter",
-                                      "fontSize": 14,
-                                      "fontWeight": "normal"
-                                    }
-                                  ]
+                                  "type": "icon_font",
+                                  "id": "iR9zS",
+                                  "width": 16,
+                                  "height": 16,
+                                  "iconFontName": "chevron-down",
+                                  "iconFontFamily": "lucide",
+                                  "fill": "$text-secondary"
                                 }
                               ]
                             }
@@ -47457,26 +47303,26 @@
                         },
                         {
                           "type": "frame",
-                          "id": "FugY4",
-                          "name": "wh2Token",
+                          "id": "HUyDR",
+                          "name": "wh1Token",
                           "width": "fill_container",
                           "layout": "vertical",
                           "gap": 6,
                           "children": [
                             {
                               "type": "text",
-                              "id": "lluk8",
-                              "name": "card2TkLbl",
+                              "id": "EyBaP",
+                              "name": "card1TkLbl",
                               "fill": "$text-primary",
-                              "content": "Auth Token",
+                              "content": "Token",
                               "fontFamily": "Inter",
                               "fontSize": 13,
                               "fontWeight": "500"
                             },
                             {
                               "type": "frame",
-                              "id": "z5kcWH",
-                              "name": "card2TkInp",
+                              "id": "YzAcz",
+                              "name": "card1TkInp",
                               "width": "fill_container",
                               "height": 40,
                               "cornerRadius": 8,
@@ -47493,12 +47339,542 @@
                               "children": [
                                 {
                                   "type": "text",
-                                  "id": "JP7Eb",
-                                  "name": "card2TkTxt",
+                                  "id": "v3qiDY",
+                                  "name": "card1TkTxt",
+                                  "fill": "$text-primary",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "eyJvcmciOiJwYXJ0bmVyX3VhdF9lbnYiLCJpZCI6ImQzYTc5MDM1Mzk1MTRkNmNiMT...",
+                                  "fontFamily": "Inter",
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "ZVlJl",
+                      "name": "wh2Card",
+                      "width": "fill_container",
+                      "cornerRadius": 8,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "$border-color"
+                      },
+                      "layout": "vertical",
+                      "gap": 10,
+                      "padding": 16,
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "agVzQ",
+                          "name": "wh2Header",
+                          "width": "fill_container",
+                          "justifyContent": "space_between",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "zPWiV",
+                              "name": "card2Ttl",
+                              "fill": "$text-primary",
+                              "content": "Webhook 3",
+                              "fontFamily": "Inter",
+                              "fontSize": 13,
+                              "fontWeight": "600"
+                            },
+                            {
+                              "type": "icon_font",
+                              "id": "SoQJW",
+                              "name": "card2Del",
+                              "width": 16,
+                              "height": 16,
+                              "iconFontName": "trash-2",
+                              "iconFontFamily": "lucide",
+                              "fill": "$text-secondary"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "C4xlNq",
+                          "name": "wh2Url",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 6,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "i3CP46",
+                              "name": "card2UrlLbl",
+                              "fill": "$text-primary",
+                              "content": "URL",
+                              "fontFamily": "Inter",
+                              "fontSize": 13,
+                              "fontWeight": "500"
+                            },
+                            {
+                              "type": "frame",
+                              "id": "O7zWfG",
+                              "name": "card2UrlInp",
+                              "width": "fill_container",
+                              "height": 40,
+                              "cornerRadius": 8,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 1,
+                                "fill": "$border-color"
+                              },
+                              "padding": [
+                                0,
+                                12
+                              ],
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "D9mmC",
+                                  "name": "card2UrlTxt",
                                   "fill": "$text-secondary",
                                   "textGrowth": "fixed-width",
                                   "width": "fill_container",
-                                  "content": "Auth Token",
+                                  "content": "Nhập URL webhook...",
+                                  "fontFamily": "Inter",
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "jbVx6",
+                          "name": "wh1Token",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 6,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "N7FYU",
+                              "name": "card1TkLbl",
+                              "fill": "$text-primary",
+                              "content": "Authentication Methods",
+                              "fontFamily": "Inter",
+                              "fontSize": 13,
+                              "fontWeight": "500"
+                            },
+                            {
+                              "type": "frame",
+                              "id": "t75ft",
+                              "name": "card1TkInp",
+                              "width": "fill_container",
+                              "height": 40,
+                              "cornerRadius": 8,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 1,
+                                "fill": "$border-color"
+                              },
+                              "padding": [
+                                0,
+                                12
+                              ],
+                              "justifyContent": "space_between",
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "JU0Ms",
+                                  "name": "card1TkTxt",
+                                  "fill": "$text-primary",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "API Key",
+                                  "fontFamily": "Inter",
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
+                                },
+                                {
+                                  "type": "icon_font",
+                                  "id": "GBaRl",
+                                  "width": 16,
+                                  "height": 16,
+                                  "iconFontName": "chevron-down",
+                                  "iconFontFamily": "lucide",
+                                  "fill": "$text-secondary"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "JMol0",
+                          "name": "wh1Token",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 6,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "C8mucS",
+                              "name": "card1TkLbl",
+                              "fill": "$text-primary",
+                              "content": "Key Name",
+                              "fontFamily": "Inter",
+                              "fontSize": 13,
+                              "fontWeight": "500"
+                            },
+                            {
+                              "type": "frame",
+                              "id": "x6VYu8",
+                              "name": "card1TkInp",
+                              "width": "fill_container",
+                              "height": 40,
+                              "cornerRadius": 8,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 1,
+                                "fill": "$border-color"
+                              },
+                              "padding": [
+                                0,
+                                12
+                              ],
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "aaXEN",
+                                  "name": "card1TkTxt",
+                                  "fill": "$text-primary",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "API-KEY",
+                                  "fontFamily": "Inter",
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "NzwZX",
+                          "name": "wh1Token",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 6,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "xG1R7",
+                              "name": "card1TkLbl",
+                              "fill": "$text-primary",
+                              "content": "Key Value",
+                              "fontFamily": "Inter",
+                              "fontSize": 13,
+                              "fontWeight": "500"
+                            },
+                            {
+                              "type": "frame",
+                              "id": "GhvMY",
+                              "name": "card1TkInp",
+                              "width": "fill_container",
+                              "height": 40,
+                              "cornerRadius": 8,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 1,
+                                "fill": "$border-color"
+                              },
+                              "padding": [
+                                0,
+                                12
+                              ],
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "vD9sY",
+                                  "name": "card1TkTxt",
+                                  "fill": "$text-primary",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "b0d1ae5a-2514-41ad-982a-8370d2a8cea8",
+                                  "fontFamily": "Inter",
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "tyZyG",
+                      "name": "wh2Card",
+                      "width": "fill_container",
+                      "cornerRadius": 8,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "$border-color"
+                      },
+                      "layout": "vertical",
+                      "gap": 10,
+                      "padding": 16,
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "UU7Nn",
+                          "name": "wh2Header",
+                          "width": "fill_container",
+                          "justifyContent": "space_between",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "gOqTA",
+                              "name": "card2Ttl",
+                              "fill": "$text-primary",
+                              "content": "Webhook 4",
+                              "fontFamily": "Inter",
+                              "fontSize": 13,
+                              "fontWeight": "600"
+                            },
+                            {
+                              "type": "icon_font",
+                              "id": "D4I4W",
+                              "name": "card2Del",
+                              "width": 16,
+                              "height": 16,
+                              "iconFontName": "trash-2",
+                              "iconFontFamily": "lucide",
+                              "fill": "$text-secondary"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "zztIB",
+                          "name": "wh2Url",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 6,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "rzB2U",
+                              "name": "card2UrlLbl",
+                              "fill": "$text-primary",
+                              "content": "URL",
+                              "fontFamily": "Inter",
+                              "fontSize": 13,
+                              "fontWeight": "500"
+                            },
+                            {
+                              "type": "frame",
+                              "id": "qmCab",
+                              "name": "card2UrlInp",
+                              "width": "fill_container",
+                              "height": 40,
+                              "cornerRadius": 8,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 1,
+                                "fill": "$border-color"
+                              },
+                              "padding": [
+                                0,
+                                12
+                              ],
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "Z6HPzX",
+                                  "name": "card2UrlTxt",
+                                  "fill": "$text-secondary",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "Nhập URL webhook...",
+                                  "fontFamily": "Inter",
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "FUiOU",
+                          "name": "wh1Token",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 6,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "rhjmj",
+                              "name": "card1TkLbl",
+                              "fill": "$text-primary",
+                              "content": "Authentication Methods",
+                              "fontFamily": "Inter",
+                              "fontSize": 13,
+                              "fontWeight": "500"
+                            },
+                            {
+                              "type": "frame",
+                              "id": "X89wxd",
+                              "name": "card1TkInp",
+                              "width": "fill_container",
+                              "height": 40,
+                              "cornerRadius": 8,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 1,
+                                "fill": "$border-color"
+                              },
+                              "padding": [
+                                0,
+                                12
+                              ],
+                              "justifyContent": "space_between",
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "z5Hrq",
+                                  "name": "card1TkTxt",
+                                  "fill": "$text-primary",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "Basic Auth",
+                                  "fontFamily": "Inter",
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
+                                },
+                                {
+                                  "type": "icon_font",
+                                  "id": "i9B9g",
+                                  "width": 16,
+                                  "height": 16,
+                                  "iconFontName": "chevron-down",
+                                  "iconFontFamily": "lucide",
+                                  "fill": "$text-secondary"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "jT3Ag",
+                          "name": "wh1Token",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 6,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "Xf47W",
+                              "name": "card1TkLbl",
+                              "fill": "$text-primary",
+                              "content": "Username",
+                              "fontFamily": "Inter",
+                              "fontSize": 13,
+                              "fontWeight": "500"
+                            },
+                            {
+                              "type": "frame",
+                              "id": "BLZ8g",
+                              "name": "card1TkInp",
+                              "width": "fill_container",
+                              "height": 40,
+                              "cornerRadius": 8,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 1,
+                                "fill": "$border-color"
+                              },
+                              "padding": [
+                                0,
+                                12
+                              ],
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "O4Z6tg",
+                                  "name": "card1TkTxt",
+                                  "fill": "$text-primary",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "ahamove",
+                                  "fontFamily": "Inter",
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "DCh2R",
+                          "name": "wh1Token",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 6,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "AvlyS",
+                              "name": "card1TkLbl",
+                              "fill": "$text-primary",
+                              "content": "Password",
+                              "fontFamily": "Inter",
+                              "fontSize": 13,
+                              "fontWeight": "500"
+                            },
+                            {
+                              "type": "frame",
+                              "id": "pE2XC",
+                              "name": "card1TkInp",
+                              "width": "fill_container",
+                              "height": 40,
+                              "cornerRadius": 8,
+                              "stroke": {
+                                "align": "inside",
+                                "thickness": 1,
+                                "fill": "$border-color"
+                              },
+                              "padding": [
+                                0,
+                                12
+                              ],
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "qR3J5",
+                                  "name": "card1TkTxt",
+                                  "fill": "$text-primary",
+                                  "textGrowth": "fixed-width",
+                                  "width": "fill_container",
+                                  "content": "sheu3822v333883",
                                   "fontFamily": "Inter",
                                   "fontSize": 14,
                                   "fontWeight": "normal"
@@ -47518,76 +47894,6 @@
                       "fontFamily": "Inter",
                       "fontSize": 13,
                       "fontWeight": "500"
-                    }
-                  ]
-                },
-                {
-                  "type": "frame",
-                  "id": "7pz33",
-                  "name": "chkRow",
-                  "width": "fill_container",
-                  "gap": 32,
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "frame",
-                      "id": "zujJ7",
-                      "name": "chk1",
-                      "gap": 8,
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "frame",
-                          "id": "W1p8C",
-                          "width": 16,
-                          "height": 16,
-                          "cornerRadius": 3,
-                          "stroke": {
-                            "align": "inside",
-                            "thickness": 1,
-                            "fill": "$border-color"
-                          }
-                        },
-                        {
-                          "type": "text",
-                          "id": "Tuy6R",
-                          "fill": "$text-primary",
-                          "content": "Gửi email",
-                          "fontFamily": "Inter",
-                          "fontSize": 14,
-                          "fontWeight": "normal"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "rIBVJ",
-                      "name": "chk2",
-                      "gap": 8,
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "frame",
-                          "id": "vrb0S",
-                          "width": 16,
-                          "height": 16,
-                          "cornerRadius": 3,
-                          "stroke": {
-                            "align": "inside",
-                            "thickness": 1,
-                            "fill": "$border-color"
-                          }
-                        },
-                        {
-                          "type": "text",
-                          "id": "1iUWX",
-                          "fill": "$text-primary",
-                          "content": "Là SAAS",
-                          "fontFamily": "Inter",
-                          "fontSize": 14,
-                          "fontWeight": "normal"
-                        }
-                      ]
                     }
                   ]
                 }
@@ -47678,6 +47984,7 @@
       "x": 888,
       "y": 10480,
       "name": " Integration management- General",
+      "clip": true,
       "width": 1440,
       "height": 900,
       "fill": "$bg-secondary",
@@ -48557,44 +48864,6 @@
                                     },
                                     {
                                       "type": "frame",
-                                      "id": "h2LjL",
-                                      "name": "wh1ab",
-                                      "width": "fill_container",
-                                      "height": 40,
-                                      "padding": [
-                                        0,
-                                        0,
-                                        0,
-                                        18
-                                      ],
-                                      "alignItems": "center",
-                                      "children": [
-                                        {
-                                          "type": "text",
-                                          "id": "JLAV8",
-                                          "fill": "$text-secondary",
-                                          "textGrowth": "fixed-width",
-                                          "width": 180,
-                                          "content": "Auth Body",
-                                          "fontFamily": "Inter",
-                                          "fontSize": 13,
-                                          "fontWeight": "normal"
-                                        },
-                                        {
-                                          "type": "text",
-                                          "id": "s5QyT",
-                                          "fill": "$text-primary",
-                                          "textGrowth": "fixed-width",
-                                          "width": "fill_container",
-                                          "content": "request_body",
-                                          "fontFamily": "Inter",
-                                          "fontSize": 14,
-                                          "fontWeight": "normal"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "type": "frame",
                                       "id": "FzAYz",
                                       "name": "wh1au",
                                       "width": "fill_container",
@@ -48613,7 +48882,7 @@
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": 180,
-                                          "content": "Auth URL",
+                                          "content": "Authentication Methods",
                                           "fontFamily": "Inter",
                                           "fontSize": 13,
                                           "fontWeight": "normal"
@@ -48624,45 +48893,7 @@
                                           "fill": "$text-primary",
                                           "textGrowth": "fixed-width",
                                           "width": "fill_container",
-                                          "content": "https://auth.example.com/token",
-                                          "fontFamily": "Inter",
-                                          "fontSize": 14,
-                                          "fontWeight": "normal"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "type": "frame",
-                                      "id": "x96xWp",
-                                      "name": "wh1at",
-                                      "width": "fill_container",
-                                      "height": 40,
-                                      "padding": [
-                                        0,
-                                        0,
-                                        0,
-                                        18
-                                      ],
-                                      "alignItems": "center",
-                                      "children": [
-                                        {
-                                          "type": "text",
-                                          "id": "l6b6F",
-                                          "fill": "$text-secondary",
-                                          "textGrowth": "fixed-width",
-                                          "width": 180,
-                                          "content": "Auth Token",
-                                          "fontFamily": "Inter",
-                                          "fontSize": 13,
-                                          "fontWeight": "normal"
-                                        },
-                                        {
-                                          "type": "text",
-                                          "id": "LaUts",
-                                          "fill": "$text-primary",
-                                          "textGrowth": "fixed-width",
-                                          "width": "fill_container",
-                                          "content": "Bearer sk-xxxxx",
+                                          "content": "Không có",
                                           "fontFamily": "Inter",
                                           "fontSize": 14,
                                           "fontWeight": "normal"
@@ -48716,44 +48947,6 @@
                                     },
                                     {
                                       "type": "frame",
-                                      "id": "SeRPz",
-                                      "name": "wh2ab",
-                                      "width": "fill_container",
-                                      "height": 40,
-                                      "padding": [
-                                        0,
-                                        0,
-                                        0,
-                                        18
-                                      ],
-                                      "alignItems": "center",
-                                      "children": [
-                                        {
-                                          "type": "text",
-                                          "id": "hhQrm",
-                                          "fill": "$text-secondary",
-                                          "textGrowth": "fixed-width",
-                                          "width": 180,
-                                          "content": "Auth Body",
-                                          "fontFamily": "Inter",
-                                          "fontSize": 13,
-                                          "fontWeight": "normal"
-                                        },
-                                        {
-                                          "type": "text",
-                                          "id": "VcJUl",
-                                          "fill": "$text-secondary",
-                                          "textGrowth": "fixed-width",
-                                          "width": "fill_container",
-                                          "content": "—",
-                                          "fontFamily": "Inter",
-                                          "fontSize": 14,
-                                          "fontWeight": "normal"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "type": "frame",
                                       "id": "oMUIY",
                                       "name": "wh2au",
                                       "width": "fill_container",
@@ -48772,7 +48965,7 @@
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": 180,
-                                          "content": "Auth URL",
+                                          "content": "Authentication Methods",
                                           "fontFamily": "Inter",
                                           "fontSize": 13,
                                           "fontWeight": "normal"
@@ -48783,7 +48976,7 @@
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": "fill_container",
-                                          "content": "—",
+                                          "content": "Bearer Token",
                                           "fontFamily": "Inter",
                                           "fontSize": 14,
                                           "fontWeight": "normal"
@@ -48792,8 +48985,8 @@
                                     },
                                     {
                                       "type": "frame",
-                                      "id": "RfEUz",
-                                      "name": "wh2at",
+                                      "id": "SeRPz",
+                                      "name": "wh2ab",
                                       "width": "fill_container",
                                       "height": 40,
                                       "padding": [
@@ -48806,22 +48999,340 @@
                                       "children": [
                                         {
                                           "type": "text",
-                                          "id": "WNvgc",
+                                          "id": "hhQrm",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": 180,
-                                          "content": "Auth Token",
+                                          "content": "Token",
                                           "fontFamily": "Inter",
                                           "fontSize": 13,
                                           "fontWeight": "normal"
                                         },
                                         {
                                           "type": "text",
-                                          "id": "iImxC",
+                                          "id": "VcJUl",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": "fill_container",
-                                          "content": "—",
+                                          "content": "eyJvcmciOiJwYXJ0bmVyX3VhdF9lbnYiLCJpZCI6ImQzYTc5MDM1Mzk1MTRkNmNiMT...",
+                                          "fontFamily": "Inter",
+                                          "fontSize": 14,
+                                          "fontWeight": "normal"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "frame",
+                                  "id": "qHLme",
+                                  "name": "webhook2Group",
+                                  "width": "fill_container",
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": {
+                                      "top": 1
+                                    },
+                                    "fill": "$border-color"
+                                  },
+                                  "layout": "vertical",
+                                  "children": [
+                                    {
+                                      "type": "frame",
+                                      "id": "hA2bH",
+                                      "name": "wh2url",
+                                      "width": "fill_container",
+                                      "height": 48,
+                                      "gap": 10,
+                                      "alignItems": "center",
+                                      "children": [
+                                        {
+                                          "type": "ellipse",
+                                          "id": "ddVfB",
+                                          "fill": "#22C55E",
+                                          "width": 8,
+                                          "height": 8
+                                        },
+                                        {
+                                          "type": "text",
+                                          "id": "Mz42I",
+                                          "fill": "$text-primary",
+                                          "textGrowth": "fixed-width",
+                                          "width": "fill_container",
+                                          "content": "https://api.example.com/webhook/orders",
+                                          "fontFamily": "Inter",
+                                          "fontSize": 14,
+                                          "fontWeight": "normal"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "frame",
+                                      "id": "stlJT",
+                                      "name": "wh2au",
+                                      "width": "fill_container",
+                                      "height": 40,
+                                      "padding": [
+                                        0,
+                                        0,
+                                        0,
+                                        18
+                                      ],
+                                      "alignItems": "center",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "id": "V7efm",
+                                          "fill": "$text-secondary",
+                                          "textGrowth": "fixed-width",
+                                          "width": 180,
+                                          "content": "Authentication Methods",
+                                          "fontFamily": "Inter",
+                                          "fontSize": 13,
+                                          "fontWeight": "normal"
+                                        },
+                                        {
+                                          "type": "text",
+                                          "id": "dsOb4",
+                                          "fill": "$text-secondary",
+                                          "textGrowth": "fixed-width",
+                                          "width": "fill_container",
+                                          "content": "API Key",
+                                          "fontFamily": "Inter",
+                                          "fontSize": 14,
+                                          "fontWeight": "normal"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "frame",
+                                      "id": "ak3gf",
+                                      "name": "wh2ab",
+                                      "width": "fill_container",
+                                      "height": 40,
+                                      "padding": [
+                                        0,
+                                        0,
+                                        0,
+                                        18
+                                      ],
+                                      "alignItems": "center",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "id": "tzYvL",
+                                          "fill": "$text-secondary",
+                                          "textGrowth": "fixed-width",
+                                          "width": 180,
+                                          "content": "Key Name",
+                                          "fontFamily": "Inter",
+                                          "fontSize": 13,
+                                          "fontWeight": "normal"
+                                        },
+                                        {
+                                          "type": "text",
+                                          "id": "p9k4GQ",
+                                          "fill": "$text-secondary",
+                                          "textGrowth": "fixed-width",
+                                          "width": "fill_container",
+                                          "content": "API-KEY",
+                                          "fontFamily": "Inter",
+                                          "fontSize": 14,
+                                          "fontWeight": "normal"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "frame",
+                                      "id": "Fp8pN",
+                                      "name": "wh2ab",
+                                      "width": "fill_container",
+                                      "height": 40,
+                                      "padding": [
+                                        0,
+                                        0,
+                                        0,
+                                        18
+                                      ],
+                                      "alignItems": "center",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "id": "cjBFj",
+                                          "fill": "$text-secondary",
+                                          "textGrowth": "fixed-width",
+                                          "width": 180,
+                                          "content": "Key Value",
+                                          "fontFamily": "Inter",
+                                          "fontSize": 13,
+                                          "fontWeight": "normal"
+                                        },
+                                        {
+                                          "type": "text",
+                                          "id": "JZhdx",
+                                          "fill": "$text-secondary",
+                                          "textGrowth": "fixed-width",
+                                          "width": "fill_container",
+                                          "content": "b0d1ae5a-2514-41ad-982a-8370d2a8cea8",
+                                          "fontFamily": "Inter",
+                                          "fontSize": 14,
+                                          "fontWeight": "normal"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "frame",
+                                  "id": "h6ji7t",
+                                  "name": "webhook2Group",
+                                  "width": "fill_container",
+                                  "stroke": {
+                                    "align": "inside",
+                                    "thickness": {
+                                      "top": 1
+                                    },
+                                    "fill": "$border-color"
+                                  },
+                                  "layout": "vertical",
+                                  "children": [
+                                    {
+                                      "type": "frame",
+                                      "id": "JmdAq",
+                                      "name": "wh2url",
+                                      "width": "fill_container",
+                                      "height": 48,
+                                      "gap": 10,
+                                      "alignItems": "center",
+                                      "children": [
+                                        {
+                                          "type": "ellipse",
+                                          "id": "t57N4m",
+                                          "fill": "#22C55E",
+                                          "width": 8,
+                                          "height": 8
+                                        },
+                                        {
+                                          "type": "text",
+                                          "id": "gT40f",
+                                          "fill": "$text-primary",
+                                          "textGrowth": "fixed-width",
+                                          "width": "fill_container",
+                                          "content": "https://api.example.com/webhook/orders",
+                                          "fontFamily": "Inter",
+                                          "fontSize": 14,
+                                          "fontWeight": "normal"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "frame",
+                                      "id": "fCzJi",
+                                      "name": "wh2au",
+                                      "width": "fill_container",
+                                      "height": 40,
+                                      "padding": [
+                                        0,
+                                        0,
+                                        0,
+                                        18
+                                      ],
+                                      "alignItems": "center",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "id": "BO34L",
+                                          "fill": "$text-secondary",
+                                          "textGrowth": "fixed-width",
+                                          "width": 180,
+                                          "content": "Authentication Methods",
+                                          "fontFamily": "Inter",
+                                          "fontSize": 13,
+                                          "fontWeight": "normal"
+                                        },
+                                        {
+                                          "type": "text",
+                                          "id": "S6B8IF",
+                                          "fill": "$text-secondary",
+                                          "textGrowth": "fixed-width",
+                                          "width": "fill_container",
+                                          "content": "Basic Auth",
+                                          "fontFamily": "Inter",
+                                          "fontSize": 14,
+                                          "fontWeight": "normal"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "frame",
+                                      "id": "bjxoV",
+                                      "name": "wh2ab",
+                                      "width": "fill_container",
+                                      "height": 40,
+                                      "padding": [
+                                        0,
+                                        0,
+                                        0,
+                                        18
+                                      ],
+                                      "alignItems": "center",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "id": "tCPpU",
+                                          "fill": "$text-secondary",
+                                          "textGrowth": "fixed-width",
+                                          "width": 180,
+                                          "content": "Username",
+                                          "fontFamily": "Inter",
+                                          "fontSize": 13,
+                                          "fontWeight": "normal"
+                                        },
+                                        {
+                                          "type": "text",
+                                          "id": "s9k3Fz",
+                                          "fill": "$text-secondary",
+                                          "textGrowth": "fixed-width",
+                                          "width": "fill_container",
+                                          "content": "ahamove",
+                                          "fontFamily": "Inter",
+                                          "fontSize": 14,
+                                          "fontWeight": "normal"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "frame",
+                                      "id": "wpXy4",
+                                      "name": "wh2ab",
+                                      "width": "fill_container",
+                                      "height": 40,
+                                      "padding": [
+                                        0,
+                                        0,
+                                        0,
+                                        18
+                                      ],
+                                      "alignItems": "center",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "id": "PJyUJ",
+                                          "fill": "$text-secondary",
+                                          "textGrowth": "fixed-width",
+                                          "width": 180,
+                                          "content": "Password",
+                                          "fontFamily": "Inter",
+                                          "fontSize": 13,
+                                          "fontWeight": "normal"
+                                        },
+                                        {
+                                          "type": "text",
+                                          "id": "dgvrJ",
+                                          "fill": "$text-secondary",
+                                          "textGrowth": "fixed-width",
+                                          "width": "fill_container",
+                                          "content": "sheu3822v333883",
                                           "fontFamily": "Inter",
                                           "fontSize": 14,
                                           "fontWeight": "normal"
@@ -48848,7 +49359,7 @@
       "type": "frame",
       "id": "1Ieid",
       "x": 888,
-      "y": 12075,
+      "y": 13345,
       "name": "Profile management",
       "width": 1440,
       "height": 900,
@@ -50098,6 +50609,7 @@
                               "name": "s5Tag1",
                               "width": "fill_container",
                               "height": 48,
+                              "fill": "#eff6ff",
                               "stroke": {
                                 "align": "inside",
                                 "thickness": {
@@ -50131,6 +50643,15 @@
                                   "fontFamily": "Inter",
                                   "fontSize": 13,
                                   "fontWeight": "normal"
+                                },
+                                {
+                                  "type": "icon_font",
+                                  "id": "z4dzKu",
+                                  "width": 14,
+                                  "height": 14,
+                                  "iconFontName": "x",
+                                  "iconFontFamily": "lucide",
+                                  "fill": "$text-secondary"
                                 }
                               ]
                             },
@@ -50227,7 +50748,7 @@
       "type": "frame",
       "id": "q3o91",
       "x": 2487,
-      "y": 12075,
+      "y": 13345,
       "name": " Profile management- UI component",
       "clip": true,
       "width": 3704,
@@ -54398,7 +54919,7 @@
       "type": "frame",
       "id": "nRpPP",
       "x": 2487,
-      "y": 13515,
+      "y": 14785,
       "name": "Order management - Quản lý đơn hàng kho",
       "clip": true,
       "width": 1440,
@@ -72130,7 +72651,7 @@
       "type": "frame",
       "id": "s36Ufz",
       "x": 888,
-      "y": 13515,
+      "y": 14785,
       "name": "Order management - Quản lý đơn hàng kho",
       "clip": true,
       "width": 1440,

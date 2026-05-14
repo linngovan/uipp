@@ -6041,8 +6041,8 @@
     {
       "type": "frame",
       "id": "UKUWB",
-      "x": 2781,
-      "y": -2588,
+      "x": 3911,
+      "y": 2100,
       "name": "Order management - New features - Order listing",
       "clip": true,
       "width": 1440,
@@ -7310,42 +7310,6 @@
                               "fontWeight": "500"
                             }
                           ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "qX9uw",
-                          "name": "createBtn",
-                          "height": 36,
-                          "fill": "#ff7f32",
-                          "cornerRadius": 8,
-                          "gap": 8,
-                          "padding": [
-                            0,
-                            16
-                          ],
-                          "alignItems": "center",
-                          "children": [
-                            {
-                              "type": "icon_font",
-                              "id": "XBbTJ",
-                              "name": "createIcon",
-                              "width": 16,
-                              "height": 16,
-                              "iconFontName": "plus",
-                              "iconFontFamily": "lucide",
-                              "fill": "$text-white"
-                            },
-                            {
-                              "type": "text",
-                              "id": "OfPSK",
-                              "name": "createLabel",
-                              "fill": "$text-white",
-                              "content": "Tạo đơn mới",
-                              "fontFamily": "Inter",
-                              "fontSize": 13,
-                              "fontWeight": "500"
-                            }
-                          ]
                         }
                       ]
                     }
@@ -8483,7 +8447,7 @@
                       "children": [
                         {
                           "type": "icon_font",
-                          "id": "mMHKB",
+                          "id": "TwBPE",
                           "width": 16,
                           "height": 16,
                           "iconFontName": "flask-conical",
@@ -8492,7 +8456,7 @@
                         },
                         {
                           "type": "icon_font",
-                          "id": "NXXQj",
+                          "id": "ZcKM2",
                           "width": 16,
                           "height": 16,
                           "iconFontName": "eye",
@@ -8501,7 +8465,7 @@
                         },
                         {
                           "type": "icon_font",
-                          "id": "VAzwu",
+                          "id": "Mg4Xm",
                           "width": 16,
                           "height": 16,
                           "iconFontName": "share-2",
@@ -8869,7 +8833,7 @@
                       "children": [
                         {
                           "type": "icon_font",
-                          "id": "c6rgW2",
+                          "id": "Qd9Im",
                           "width": 16,
                           "height": 16,
                           "iconFontName": "flask-conical",
@@ -8878,7 +8842,7 @@
                         },
                         {
                           "type": "icon_font",
-                          "id": "Q53iWa",
+                          "id": "wxXsZ",
                           "width": 16,
                           "height": 16,
                           "iconFontName": "eye",
@@ -8887,7 +8851,7 @@
                         },
                         {
                           "type": "icon_font",
-                          "id": "hr9CI",
+                          "id": "YbUTJ",
                           "width": 16,
                           "height": 16,
                           "iconFontName": "share-2",
@@ -9255,7 +9219,7 @@
                       "children": [
                         {
                           "type": "icon_font",
-                          "id": "bz4PL",
+                          "id": "LhWnm",
                           "width": 16,
                           "height": 16,
                           "iconFontName": "flask-conical",
@@ -9264,7 +9228,7 @@
                         },
                         {
                           "type": "icon_font",
-                          "id": "DFDR9",
+                          "id": "L1Qy83",
                           "width": 16,
                           "height": 16,
                           "iconFontName": "eye",
@@ -9273,7 +9237,7 @@
                         },
                         {
                           "type": "icon_font",
-                          "id": "zcYOt",
+                          "id": "h4bqDd",
                           "width": 16,
                           "height": 16,
                           "iconFontName": "share-2",
@@ -9644,7 +9608,7 @@
                       "children": [
                         {
                           "type": "icon_font",
-                          "id": "Jyrz4",
+                          "id": "eH1fT",
                           "width": 16,
                           "height": 16,
                           "iconFontName": "flask-conical",
@@ -9653,7 +9617,7 @@
                         },
                         {
                           "type": "icon_font",
-                          "id": "h5AMRA",
+                          "id": "mPBTA",
                           "width": 16,
                           "height": 16,
                           "iconFontName": "eye",
@@ -9662,7 +9626,7 @@
                         },
                         {
                           "type": "icon_font",
-                          "id": "Qj8gL",
+                          "id": "XC6dT",
                           "width": 16,
                           "height": 16,
                           "iconFontName": "share-2",
@@ -22122,8 +22086,8 @@
     {
       "type": "frame",
       "id": "SUT5E",
-      "x": 2487,
-      "y": 2089,
+      "x": 5464,
+      "y": 2100,
       "name": "Popup Xuất dữ liệu",
       "width": 400,
       "fill": "#FFFFFF",

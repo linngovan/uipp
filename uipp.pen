@@ -83212,7 +83212,7 @@
     },
     {
       "type": "frame",
-      "id": "bvtBS",
+      "id": "AqL9W",
       "x": 888,
       "y": 10480,
       "name": " Integration management- General",
@@ -83223,7 +83223,7 @@
       "children": [
         {
           "type": "frame",
-          "id": "m48uMD",
+          "id": "euEYJ",
           "name": "sb1",
           "width": 240,
           "height": "fill_container",
@@ -83238,7 +83238,7 @@
           "children": [
             {
               "type": "frame",
-              "id": "p9WWC",
+              "id": "I0PsEG",
               "name": "Frame 1",
               "width": "fill_container",
               "layout": "vertical",
@@ -83246,7 +83246,7 @@
               "children": [
                 {
                   "type": "frame",
-                  "id": "YU8TO",
+                  "id": "b4c3F",
                   "name": "Logo Row",
                   "width": "fill_container",
                   "justifyContent": "space_between",
@@ -83254,7 +83254,7 @@
                   "children": [
                     {
                       "type": "frame",
-                      "id": "WVWm5",
+                      "id": "Yxk3E",
                       "name": "Logo",
                       "clip": true,
                       "width": 174,
@@ -83272,14 +83272,14 @@
                       "children": [
                         {
                           "type": "group",
-                          "id": "VD0OO",
+                          "id": "T0LC5",
                           "x": 49.35577392578125,
                           "y": 4.561150074005127,
                           "name": "Group",
                           "children": [
                             {
                               "type": "path",
-                              "id": "EhIHu",
+                              "id": "zgaJe",
                               "x": 0,
                               "y": 0,
                               "name": "Vector",
@@ -83294,7 +83294,7 @@
                             },
                             {
                               "type": "path",
-                              "id": "xikpi",
+                              "id": "eoGua",
                               "x": 22.767229080200195,
                               "y": 0,
                               "name": "Vector",
@@ -83309,7 +83309,7 @@
                             },
                             {
                               "type": "path",
-                              "id": "ebI0R",
+                              "id": "bt79n",
                               "x": 54.00358200073242,
                               "y": 6.515929698944092,
                               "name": "Vector",
@@ -83324,7 +83324,7 @@
                             },
                             {
                               "type": "path",
-                              "id": "Hrq2M",
+                              "id": "jo15E",
                               "x": 91.19609832763672,
                               "y": 6.813322067260742,
                               "name": "Vector",
@@ -83339,7 +83339,7 @@
                             },
                             {
                               "type": "path",
-                              "id": "zqzoh",
+                              "id": "L8TwM1",
                               "x": 106.58839416503906,
                               "y": 6.52595329284668,
                               "name": "Vector",
@@ -83354,7 +83354,7 @@
                             },
                             {
                               "type": "path",
-                              "id": "onlrE",
+                              "id": "eKOJQ",
                               "x": 76.60018157958984,
                               "y": 6.462466716766357,
                               "name": "Vector",
@@ -83369,7 +83369,7 @@
                             },
                             {
                               "type": "path",
-                              "id": "ISbzR",
+                              "id": "sG5kv",
                               "x": 37.42338943481445,
                               "y": 6.52595329284668,
                               "name": "Vector",
@@ -83384,7 +83384,7 @@
                             },
                             {
                               "type": "path",
-                              "id": "VhUJ7",
+                              "id": "vNaDe",
                               "x": 121.07726287841797,
                               "y": 4.457563400268555,
                               "name": "Vector",
@@ -83399,7 +83399,7 @@
                             },
                             {
                               "type": "path",
-                              "id": "t2Qnym",
+                              "id": "TxZqM",
                               "x": 119.20338439941406,
                               "y": 2.993985176086426,
                               "name": "Vector",
@@ -83416,13 +83416,13 @@
                         },
                         {
                           "type": "group",
-                          "id": "PG6ZR",
+                          "id": "m5OHMH",
                           "x": 0,
                           "y": 0.001348839607089758,
                           "children": [
                             {
                               "type": "path",
-                              "id": "tnGns",
+                              "id": "ausPw",
                               "x": 0,
                               "y": 0,
                               "name": "Vector",
@@ -83437,7 +83437,7 @@
                             },
                             {
                               "type": "path",
-                              "id": "aPzIb",
+                              "id": "xjZbL",
                               "x": 28.268314361572266,
                               "y": 12.692126883659512,
                               "name": "Vector",
@@ -83452,7 +83452,7 @@
                             },
                             {
                               "type": "path",
-                              "id": "VUvtU",
+                              "id": "Tx5Gr",
                               "x": 22.151540756225586,
                               "y": 12.698810233268887,
                               "name": "Vector",
@@ -83471,7 +83471,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "yOBHJ",
+                      "id": "tqHRU",
                       "name": "Collapse Button",
                       "width": 28,
                       "height": 28,
@@ -83482,7 +83482,7 @@
                       "children": [
                         {
                           "type": "icon_font",
-                          "id": "vXBKo",
+                          "id": "TRLGy",
                           "name": "collapseIcon",
                           "width": 15,
                           "height": 15,
@@ -83496,7 +83496,7 @@
                 },
                 {
                   "type": "rectangle",
-                  "id": "faFJZ",
+                  "id": "P0tQvB",
                   "name": "divider",
                   "fill": "$bg-sidebar-hover",
                   "width": "fill_container",
@@ -83504,14 +83504,14 @@
                 },
                 {
                   "type": "frame",
-                  "id": "jG7jl",
+                  "id": "v3IbT",
                   "name": "navSection",
                   "width": "fill_container",
                   "layout": "vertical",
                   "gap": 4,
                   "children": [
                     {
-                      "id": "RrUAR",
+                      "id": "kUOS1",
                       "type": "ref",
                       "ref": "i:qCCo8",
                       "fill": [],
@@ -83533,7 +83533,7 @@
                       }
                     },
                     {
-                      "id": "KKOAn",
+                      "id": "FyGLU",
                       "type": "ref",
                       "ref": "i:qCCo8",
                       "width": "fill_container(216)",
@@ -83556,7 +83556,7 @@
                       }
                     },
                     {
-                      "id": "fJIu9",
+                      "id": "K6PBI",
                       "type": "ref",
                       "ref": "i:qCCo8",
                       "width": "fill_container",
@@ -83578,7 +83578,7 @@
                       }
                     },
                     {
-                      "id": "v06y5",
+                      "id": "NaaFU",
                       "type": "ref",
                       "ref": "i:qCCo8",
                       "width": "fill_container",
@@ -83600,7 +83600,7 @@
                       }
                     },
                     {
-                      "id": "SB60A",
+                      "id": "aEfdF",
                       "type": "ref",
                       "ref": "i:qCCo8",
                       "fill": "$accent",
@@ -83622,7 +83622,7 @@
                       }
                     },
                     {
-                      "id": "N5kPM",
+                      "id": "UtWM3",
                       "type": "ref",
                       "ref": "i:qCCo8",
                       "width": "fill_container",
@@ -83649,7 +83649,7 @@
             },
             {
               "type": "frame",
-              "id": "Wf3ee",
+              "id": "dPprQ",
               "name": "profileSection",
               "width": "fill_container",
               "gap": 12,
@@ -83660,7 +83660,7 @@
               "alignItems": "center",
               "children": [
                 {
-                  "id": "g6P0On",
+                  "id": "aJ57I",
                   "type": "ref",
                   "ref": "i:DpPVg",
                   "width": 40,
@@ -83676,7 +83676,7 @@
                 },
                 {
                   "type": "frame",
-                  "id": "Y51QLO",
+                  "id": "K2QmXs",
                   "name": "profileInfo",
                   "width": "fill_container",
                   "layout": "vertical",
@@ -83684,7 +83684,7 @@
                   "children": [
                     {
                       "type": "frame",
-                      "id": "Rflrh",
+                      "id": "eVzCw",
                       "name": "nameRow",
                       "width": "fill_container",
                       "gap": 8,
@@ -83693,7 +83693,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "cMZun",
+                          "id": "gWb9j",
                           "fill": "$text-white",
                           "content": "Lin LN-08",
                           "fontFamily": "Inter",
@@ -83702,7 +83702,7 @@
                         },
                         {
                           "type": "icon_font",
-                          "id": "X6L1Qi",
+                          "id": "shC5d",
                           "width": 14,
                           "height": 14,
                           "iconFontName": "log-out",
@@ -83713,7 +83713,7 @@
                     },
                     {
                       "type": "text",
-                      "id": "FhMnL",
+                      "id": "TEJ46",
                       "fill": "$text-sidebar",
                       "content": "84396494049",
                       "fontFamily": "Inter",
@@ -83728,7 +83728,7 @@
         },
         {
           "type": "frame",
-          "id": "wqvGX",
+          "id": "BnuHr",
           "name": "main1",
           "width": "fill_container",
           "height": 900,
@@ -83736,7 +83736,7 @@
           "children": [
             {
               "type": "frame",
-              "id": "mAFsO",
+              "id": "O1DjFf",
               "name": "main1",
               "width": "fill_container",
               "height": 900,
@@ -83744,7 +83744,7 @@
               "children": [
                 {
                   "type": "frame",
-                  "id": "Ja5VX",
+                  "id": "l0v68F",
                   "name": "Header",
                   "width": "fill_container",
                   "height": "fill_container",
@@ -83760,7 +83760,7 @@
                   "children": [
                     {
                       "type": "frame",
-                      "id": "nOeoC",
+                      "id": "UMgtS",
                       "name": "Title Row",
                       "width": "fill_container",
                       "justifyContent": "space_between",
@@ -83768,7 +83768,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "id": "NN7Gb",
+                          "id": "SwnlP",
                           "name": "titleText",
                           "fill": "$text-primary",
                           "content": "Quản lý tích hợp",
@@ -83780,7 +83780,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "shWlM",
+                      "id": "GJdFJ",
                       "name": "body",
                       "width": "fit_content(1152)",
                       "cornerRadius": 12,
@@ -83794,14 +83794,14 @@
                       "children": [
                         {
                           "type": "frame",
-                          "id": "Lop3k",
+                          "id": "ZQiNp",
                           "name": "fl",
                           "width": "fill_container",
                           "layout": "vertical",
                           "children": [
                             {
                               "type": "frame",
-                              "id": "mu307",
+                              "id": "Ag3ci",
                               "layoutPosition": "absolute",
                               "x": 1000,
                               "y": 0,
@@ -83818,7 +83818,7 @@
                               "children": [
                                 {
                                   "type": "icon_font",
-                                  "id": "HvCDs",
+                                  "id": "b3PLlk",
                                   "width": 16,
                                   "height": 16,
                                   "iconFontName": "pencil",
@@ -83827,7 +83827,7 @@
                                 },
                                 {
                                   "type": "text",
-                                  "id": "O1vG6W",
+                                  "id": "V6z04",
                                   "fill": "$text-white",
                                   "content": "Cập nhật",
                                   "fontFamily": "Inter",
@@ -83838,7 +83838,7 @@
                             },
                             {
                               "type": "frame",
-                              "id": "F3ZKJ",
+                              "id": "F7h5f",
                               "name": "hdr",
                               "width": "fill_container",
                               "justifyContent": "space_between",
@@ -83846,7 +83846,7 @@
                               "children": [
                                 {
                                   "type": "text",
-                                  "id": "SrRMP",
+                                  "id": "dKZ4H",
                                   "fill": "$text-primary",
                                   "content": "Thông tin tài khoản",
                                   "fontFamily": "Inter",
@@ -83857,7 +83857,7 @@
                             },
                             {
                               "type": "frame",
-                              "id": "E7kXis",
+                              "id": "UcMS7",
                               "name": "r1",
                               "width": "fill_container",
                               "height": 48,
@@ -83865,7 +83865,7 @@
                               "children": [
                                 {
                                   "type": "text",
-                                  "id": "BnCxf",
+                                  "id": "vFbjB",
                                   "fill": "$text-secondary",
                                   "textGrowth": "fixed-width",
                                   "width": 180,
@@ -83876,7 +83876,7 @@
                                 },
                                 {
                                   "type": "text",
-                                  "id": "dpXvw",
+                                  "id": "DXXHd",
                                   "fill": "$text-primary",
                                   "textGrowth": "fixed-width",
                                   "width": "fill_container",
@@ -83889,7 +83889,7 @@
                             },
                             {
                               "type": "frame",
-                              "id": "BIl7d",
+                              "id": "Q6IdC5",
                               "name": "r2",
                               "width": "fill_container",
                               "height": 48,
@@ -83897,7 +83897,7 @@
                               "children": [
                                 {
                                   "type": "text",
-                                  "id": "UtCbD",
+                                  "id": "xmbJl",
                                   "fill": "$text-secondary",
                                   "textGrowth": "fixed-width",
                                   "width": 180,
@@ -83908,7 +83908,7 @@
                                 },
                                 {
                                   "type": "text",
-                                  "id": "Yk9Mf",
+                                  "id": "IHr8O",
                                   "fill": "$text-primary",
                                   "textGrowth": "fixed-width",
                                   "width": "fill_container",
@@ -83921,7 +83921,7 @@
                             },
                             {
                               "type": "frame",
-                              "id": "cQN21",
+                              "id": "E8KGc",
                               "name": "r3",
                               "width": "fill_container",
                               "height": 48,
@@ -83929,7 +83929,7 @@
                               "children": [
                                 {
                                   "type": "text",
-                                  "id": "A5Ct7",
+                                  "id": "MSHRC",
                                   "fill": "$text-secondary",
                                   "textGrowth": "fixed-width",
                                   "width": 180,
@@ -83940,7 +83940,7 @@
                                 },
                                 {
                                   "type": "text",
-                                  "id": "X1yQqO",
+                                  "id": "Wj95p",
                                   "fill": "$text-primary",
                                   "textGrowth": "fixed-width",
                                   "width": "fill_container",
@@ -83953,7 +83953,7 @@
                             },
                             {
                               "type": "frame",
-                              "id": "fhysT",
+                              "id": "Y06RI",
                               "name": "r4",
                               "width": "fill_container",
                               "height": 48,
@@ -83961,7 +83961,7 @@
                               "children": [
                                 {
                                   "type": "text",
-                                  "id": "znewb",
+                                  "id": "A5Bb8V",
                                   "fill": "$text-secondary",
                                   "textGrowth": "fixed-width",
                                   "width": 180,
@@ -83972,7 +83972,7 @@
                                 },
                                 {
                                   "type": "text",
-                                  "id": "skqEF",
+                                  "id": "o6LAJr",
                                   "fill": "$text-primary",
                                   "textGrowth": "fixed-width",
                                   "width": "fill_container",
@@ -83985,7 +83985,7 @@
                             },
                             {
                               "type": "frame",
-                              "id": "WEzhb",
+                              "id": "BU9XW",
                               "name": "r5",
                               "width": "fill_container",
                               "height": 48,
@@ -83993,7 +83993,7 @@
                               "children": [
                                 {
                                   "type": "text",
-                                  "id": "h1ewA",
+                                  "id": "o243G",
                                   "fill": "$text-secondary",
                                   "textGrowth": "fixed-width",
                                   "width": 180,
@@ -84004,7 +84004,7 @@
                                 },
                                 {
                                   "type": "text",
-                                  "id": "siDnJ",
+                                  "id": "izctK",
                                   "fill": "$text-primary",
                                   "textGrowth": "fixed-width",
                                   "width": "fill_container",
@@ -84017,14 +84017,14 @@
                             },
                             {
                               "type": "frame",
-                              "id": "j7AUhJ",
+                              "id": "TS3TL",
                               "name": "webhookSection",
                               "width": "fill_container",
                               "layout": "vertical",
                               "children": [
                                 {
                                   "type": "frame",
-                                  "id": "xFCgD",
+                                  "id": "lQwok",
                                   "name": "whHeader",
                                   "width": "fill_container",
                                   "height": 48,
@@ -84033,7 +84033,7 @@
                                   "children": [
                                     {
                                       "type": "text",
-                                      "id": "dg5Bd",
+                                      "id": "itZjv",
                                       "fill": "$text-secondary",
                                       "content": "Webhook URLs",
                                       "fontFamily": "Inter",
@@ -84042,7 +84042,7 @@
                                     },
                                     {
                                       "type": "text",
-                                      "id": "Ozwf2",
+                                      "id": "tDdxx",
                                       "fill": "$text-secondary",
                                       "content": "2 webhook(s)",
                                       "fontFamily": "Inter",
@@ -84053,7 +84053,7 @@
                                 },
                                 {
                                   "type": "frame",
-                                  "id": "ErP2t",
+                                  "id": "qfzx9",
                                   "name": "webhook1Group",
                                   "width": "fill_container",
                                   "stroke": {
@@ -84067,7 +84067,7 @@
                                   "children": [
                                     {
                                       "type": "frame",
-                                      "id": "UQjpv",
+                                      "id": "Hjgyz",
                                       "name": "wh1url",
                                       "width": "fill_container",
                                       "height": 48,
@@ -84076,14 +84076,14 @@
                                       "children": [
                                         {
                                           "type": "ellipse",
-                                          "id": "kqy6E",
+                                          "id": "Tolbz",
                                           "fill": "#22C55E",
                                           "width": 8,
                                           "height": 8
                                         },
                                         {
                                           "type": "text",
-                                          "id": "KsMJb",
+                                          "id": "R8xbm",
                                           "fill": "$text-primary",
                                           "textGrowth": "fixed-width",
                                           "width": "fill_container",
@@ -84096,7 +84096,7 @@
                                     },
                                     {
                                       "type": "frame",
-                                      "id": "aZquF",
+                                      "id": "Q1Cb1D",
                                       "name": "wh1au",
                                       "width": "fill_container",
                                       "height": 40,
@@ -84110,7 +84110,7 @@
                                       "children": [
                                         {
                                           "type": "text",
-                                          "id": "ISlIv",
+                                          "id": "nqIq3",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": 180,
@@ -84121,7 +84121,7 @@
                                         },
                                         {
                                           "type": "text",
-                                          "id": "T1AEV",
+                                          "id": "OR9tu",
                                           "fill": "$text-primary",
                                           "textGrowth": "fixed-width",
                                           "width": "fill_container",
@@ -84136,7 +84136,7 @@
                                 },
                                 {
                                   "type": "frame",
-                                  "id": "zzp6c",
+                                  "id": "jg94H",
                                   "name": "webhook2Group",
                                   "width": "fill_container",
                                   "stroke": {
@@ -84150,7 +84150,7 @@
                                   "children": [
                                     {
                                       "type": "frame",
-                                      "id": "e8ha7I",
+                                      "id": "i3rUfK",
                                       "name": "wh2url",
                                       "width": "fill_container",
                                       "height": 48,
@@ -84159,14 +84159,14 @@
                                       "children": [
                                         {
                                           "type": "ellipse",
-                                          "id": "L0MA0N",
+                                          "id": "Ijf35",
                                           "fill": "#22C55E",
                                           "width": 8,
                                           "height": 8
                                         },
                                         {
                                           "type": "text",
-                                          "id": "hXsBw",
+                                          "id": "f5xvVu",
                                           "fill": "$text-primary",
                                           "textGrowth": "fixed-width",
                                           "width": "fill_container",
@@ -84179,7 +84179,7 @@
                                     },
                                     {
                                       "type": "frame",
-                                      "id": "OLctX",
+                                      "id": "Gh4Vh",
                                       "name": "wh2au",
                                       "width": "fill_container",
                                       "height": 40,
@@ -84193,7 +84193,7 @@
                                       "children": [
                                         {
                                           "type": "text",
-                                          "id": "bI7MB",
+                                          "id": "IE3Qe",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": 180,
@@ -84204,7 +84204,7 @@
                                         },
                                         {
                                           "type": "text",
-                                          "id": "a3wIx",
+                                          "id": "NwRxQ",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": "fill_container",
@@ -84217,7 +84217,7 @@
                                     },
                                     {
                                       "type": "frame",
-                                      "id": "b9xY4N",
+                                      "id": "zfEc4",
                                       "name": "wh2ab",
                                       "width": "fill_container",
                                       "height": 40,
@@ -84231,7 +84231,7 @@
                                       "children": [
                                         {
                                           "type": "text",
-                                          "id": "HiD8D",
+                                          "id": "m1p1BD",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": 180,
@@ -84242,7 +84242,7 @@
                                         },
                                         {
                                           "type": "text",
-                                          "id": "RBi8t",
+                                          "id": "MvQ5W",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": "fill_container",
@@ -84257,7 +84257,7 @@
                                 },
                                 {
                                   "type": "frame",
-                                  "id": "B6BiF2",
+                                  "id": "F9r8M",
                                   "name": "webhook2Group",
                                   "width": "fill_container",
                                   "stroke": {
@@ -84271,7 +84271,7 @@
                                   "children": [
                                     {
                                       "type": "frame",
-                                      "id": "JbRYU",
+                                      "id": "qMloD",
                                       "name": "wh2url",
                                       "width": "fill_container",
                                       "height": 48,
@@ -84280,14 +84280,14 @@
                                       "children": [
                                         {
                                           "type": "ellipse",
-                                          "id": "r0iYOb",
+                                          "id": "SbGsH",
                                           "fill": "#22C55E",
                                           "width": 8,
                                           "height": 8
                                         },
                                         {
                                           "type": "text",
-                                          "id": "yf7IB",
+                                          "id": "YrCrU",
                                           "fill": "$text-primary",
                                           "textGrowth": "fixed-width",
                                           "width": "fill_container",
@@ -84300,7 +84300,7 @@
                                     },
                                     {
                                       "type": "frame",
-                                      "id": "z7WvN",
+                                      "id": "HEF2W",
                                       "name": "wh2au",
                                       "width": "fill_container",
                                       "height": 40,
@@ -84314,7 +84314,7 @@
                                       "children": [
                                         {
                                           "type": "text",
-                                          "id": "juRjV",
+                                          "id": "N6HHso",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": 180,
@@ -84325,7 +84325,7 @@
                                         },
                                         {
                                           "type": "text",
-                                          "id": "toLJV",
+                                          "id": "soDPL",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": "fill_container",
@@ -84338,7 +84338,7 @@
                                     },
                                     {
                                       "type": "frame",
-                                      "id": "JHTkW",
+                                      "id": "tcnEa",
                                       "name": "wh2ab",
                                       "width": "fill_container",
                                       "height": 40,
@@ -84352,7 +84352,7 @@
                                       "children": [
                                         {
                                           "type": "text",
-                                          "id": "MReUA",
+                                          "id": "BDten",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": 180,
@@ -84363,7 +84363,7 @@
                                         },
                                         {
                                           "type": "text",
-                                          "id": "K4a84P",
+                                          "id": "AONPE",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": "fill_container",
@@ -84376,7 +84376,7 @@
                                     },
                                     {
                                       "type": "frame",
-                                      "id": "W5XuC2",
+                                      "id": "Q9FwO",
                                       "name": "wh2ab",
                                       "width": "fill_container",
                                       "height": 40,
@@ -84390,7 +84390,7 @@
                                       "children": [
                                         {
                                           "type": "text",
-                                          "id": "tm70A",
+                                          "id": "j4kPt",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": 180,
@@ -84401,7 +84401,7 @@
                                         },
                                         {
                                           "type": "text",
-                                          "id": "QD5sk",
+                                          "id": "shDRF",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": "fill_container",
@@ -84416,7 +84416,7 @@
                                 },
                                 {
                                   "type": "frame",
-                                  "id": "AnHMY",
+                                  "id": "vavPr",
                                   "name": "webhook2Group",
                                   "width": "fill_container",
                                   "stroke": {
@@ -84430,7 +84430,7 @@
                                   "children": [
                                     {
                                       "type": "frame",
-                                      "id": "a3qH2F",
+                                      "id": "GWMr6",
                                       "name": "wh2url",
                                       "width": "fill_container",
                                       "height": 48,
@@ -84439,14 +84439,14 @@
                                       "children": [
                                         {
                                           "type": "ellipse",
-                                          "id": "yjz2Q",
+                                          "id": "g6jQgU",
                                           "fill": "#22C55E",
                                           "width": 8,
                                           "height": 8
                                         },
                                         {
                                           "type": "text",
-                                          "id": "IdV5A",
+                                          "id": "djEYX",
                                           "fill": "$text-primary",
                                           "textGrowth": "fixed-width",
                                           "width": "fill_container",
@@ -84459,7 +84459,7 @@
                                     },
                                     {
                                       "type": "frame",
-                                      "id": "z0GsC",
+                                      "id": "S1hXkN",
                                       "name": "wh2au",
                                       "width": "fill_container",
                                       "height": 40,
@@ -84473,7 +84473,7 @@
                                       "children": [
                                         {
                                           "type": "text",
-                                          "id": "qrq3R",
+                                          "id": "OsLNK",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": 180,
@@ -84484,7 +84484,7 @@
                                         },
                                         {
                                           "type": "text",
-                                          "id": "HvaIp",
+                                          "id": "au13B",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": "fill_container",
@@ -84497,7 +84497,7 @@
                                     },
                                     {
                                       "type": "frame",
-                                      "id": "ODmi8",
+                                      "id": "b2Y0L",
                                       "name": "wh2ab",
                                       "width": "fill_container",
                                       "height": 40,
@@ -84511,7 +84511,7 @@
                                       "children": [
                                         {
                                           "type": "text",
-                                          "id": "J009mR",
+                                          "id": "UtORH",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": 180,
@@ -84522,7 +84522,7 @@
                                         },
                                         {
                                           "type": "text",
-                                          "id": "WdVwF",
+                                          "id": "NeUFa",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": "fill_container",
@@ -84535,7 +84535,7 @@
                                     },
                                     {
                                       "type": "frame",
-                                      "id": "mCGbm",
+                                      "id": "NxR2h",
                                       "name": "wh2ab",
                                       "width": "fill_container",
                                       "height": 40,
@@ -84549,7 +84549,7 @@
                                       "children": [
                                         {
                                           "type": "text",
-                                          "id": "XWZvA",
+                                          "id": "B2n6X",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": 180,
@@ -84560,7 +84560,7 @@
                                         },
                                         {
                                           "type": "text",
-                                          "id": "MExOC",
+                                          "id": "S4QuOg",
                                           "fill": "$text-secondary",
                                           "textGrowth": "fixed-width",
                                           "width": "fill_container",
